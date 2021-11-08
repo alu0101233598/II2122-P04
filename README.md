@@ -1,4 +1,4 @@
-# Práctica 4: Uso de componentes en Unity3D 📌 <!-- omit in toc -->
+# Práctica 4: Micrófono y cámara <!-- omit in toc -->
 
 > Esta práctica tiene objetivo aplicar interfaces naturales en componentes con Unity3D (cámara y micrófono). 
 
