@@ -29,7 +29,7 @@ public class DoorBehaviour : MonoBehaviour
             box.enabled = false;
             
         } 
-        else if (isOpen)
+        else
         {
             isOpen = false;
             animation.Play("Door_Close");
